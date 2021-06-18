@@ -12,6 +12,7 @@
 	<h3>Seja bem vindo ao sistema em jsp</h3>
 	 <!-- vamos passar a servelet  que é a url que ela vai interceptar salvarusuario/ parametro acao que vai ser listartodos -->
 	<a href="salvarUsuario?acao=listartodos"><img src="resources/img/icon-usuario.png"/></a>
+	<a href="salvarProduto?acao=listartodos"><img src="resources/img/icon-produto.png"/></a>
 	
 </body>
 </html>
